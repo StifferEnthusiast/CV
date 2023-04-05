@@ -1,0 +1,38 @@
+body  {
+    background-color: lightgreen;
+}
+hr {
+background-color: lightgreen;
+border-style: dotted none none none;
+border-width: thick;
+height: 2px;
+width: 5%;
+}
+h1 {
+    color: cadetblue;
+    font-family: cursive;
+}
+h2 {
+    color: cadetblue;
+    font-family: cursive;
+}
+h3 {
+    color: cadetblue;
+    font-family: cursive;
+}
+h4 {
+    color: cadetblue;
+    font-family: cursive;
+}
+p {
+    font-family: cursive;
+    color: cadetblue;
+}
+ol {
+    font-family: cursive;
+    color: cadetblue;
+}
+ul{
+    font-family: cursive;
+    color: cadetblue;
+}
