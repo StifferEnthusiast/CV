@@ -1,0 +1,82 @@
+body{
+    margin:0px;
+    text-align: center;
+}
+
+h1{
+    margin: 0px;
+    font-family: 'PT mono', monospace;
+    color: lightgreen;
+    font-size: 50px;
+}
+p{
+    font-family: 'PT mono', monospace;
+    font-size: medium;
+    color: #363636;
+}
+.top {
+    background-color: cadetblue;
+    padding-top: 200px;
+    
+    
+}
+.mountaina{
+    position: relative;
+    top:3px;
+}
+.bottomcloud{
+    position: absolute;
+    left :350px;
+    top: 120px;
+}
+.topcld {
+    position: absolute;
+    right: 350px;
+    top: 300px;
+}
+h3{
+  font-family:PT mono, cursive ; 
+  color: darkslategray; 
+}
+h2{
+    font-family:PT mono, cursive ; 
+    color: darkslategray;
+} 
+.middle1{
+    padding-top: 100px;
+    background-color: rgb(126, 163, 163);
+    padding-bottom: 40px;
+}
+.middle2{
+    padding-top: 50px;
+    padding-left: 30px;
+    background-color: #92a2b0;
+    text-align: left;
+    padding-bottom: 50px;
+}
+.pcpict {
+    width: 50px;
+}
+ul{
+    font-family: PT mono, cursive;
+    color:#363636;
+}
+tab{
+    position: absolute;
+    left:300px;
+}
+.cont{
+    position: absolute;
+    top: 1465px;
+    right: 790px;
+}
+.bottom{
+    background-color: rgb(66, 96, 173);
+    padding-left: 25px;
+}
+.bo{
+    padding-top: 30px;
+    padding-left: 30px;
+    background-color: #92a2b0;
+    text-align: left;
+}
